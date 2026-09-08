@@ -74,7 +74,7 @@ class DiscordMultiTool(discord.Client):
 │ Guns.lol    : https://guns.lol/691db
 │ GitHub      : https://github.com/ pas de github pr l'instant
 │ Join our Discord Server : https://discord.gg/KTsayDpTK
-│ Merci d'utiliser Discord Asset Scraper Multi-Tool !
+│ 
 └───
 """
         print(Colorate.Horizontal(COLOR_GRADIENT, credits_page))
